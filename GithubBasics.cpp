@@ -16,6 +16,7 @@
 
     Other useful stuff:
     git commit --date="2024-01-01 10:00:00" -m "Initial setup"
+    git commit --date="YYYY-MM-DD HH:MM:SS" -m "Your commit message"
     git branch --set-upstream-to=origin/<branch> main
  */
 
