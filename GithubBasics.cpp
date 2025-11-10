@@ -14,6 +14,8 @@
     git branch -M main
     git push -u origin main
 
+    Other useful stuff:
     git commit --date="2024-01-01 10:00:00" -m "Initial setup"
+    git branch --set-upstream-to=origin/<branch> main
  */
 
